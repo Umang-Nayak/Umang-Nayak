@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Umang Nayak
+## 👋 Hi, I’m Umang Nayak (Python Developer 🐍)
 
 - 👀 I’m interested in building innovative solutions with Python.
 - 🌱 I’m currently learning advanced techniques in machine learning and AI.
